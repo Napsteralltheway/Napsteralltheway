@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently working on a Bachelor's in Computer science specializing in Cyber Security. 
+I'm currently working on a Bachelor's in Computer Science specializing in Cyber Security. 
 
 
 # 💻 Tech Stack:
